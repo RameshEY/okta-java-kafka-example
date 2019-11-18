@@ -17,7 +17,6 @@ public class ConsumerConfiguration {
     private static final String KAFKA_BROKER = "localhost:9092";
     private static final String GROUP_ID = "kafka-sandbox";
 
-
     @Bean
     public ConsumerFactory<String, String> consumerFactory() {
         return new DefaultKafkaConsumerFactory<>(consumerConfigurations());
