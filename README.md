@@ -82,4 +82,4 @@ Please post any questions as comments on [this blog post][blog-url], or visit ou
 
 Apache 2.0, see [LICENSE](LICENSE).
 
-[blog-url]: https://developer.okta.com/blog/2019/11/19/secure-kafka-java
+[blog-url]: https://developer.okta.com/blog/2019/11/19/java-kafka
