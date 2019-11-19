@@ -2,7 +2,7 @@
 
 This example shows how to use Okta's Authentication API with Java integrating with Kafka.
 
-Please read [Kafka with Java: Build a Secure, Scalable Messaging App](blog-url) for a tutorial that shows you how to build this application.
+Please read [Kafka with Java: Build a Secure, Scalable Messaging App][blog-url] for a tutorial that shows you how to build this application.
 
 **Prerequisites:** 
 
@@ -76,7 +76,7 @@ This example uses the following libraries provided by Okta:
 
 ## Help
 
-Please post any questions as comments on [this blog post](blog-url), or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if would like to create a support ticket.
+Please post any questions as comments on [this blog post][blog-url], or visit our [Okta Developer Forums](https://devforum.okta.com/). You can also email developers@okta.com if would like to create a support ticket.
 
 ## License
 
